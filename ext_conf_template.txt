@@ -16,3 +16,5 @@ mmURL = cdn.rawgit.com/googlemaps/v3-utility-library/master/markermanager/src/ma
 ibURL = cdn.rawgit.com/googlemaps/js-info-bubble/gh-pages/src/infobubble.js
 # cat=basic; type=input; label=URL of OverlappingMarkerSpiderfier (without protocol-prefix)
 omURL = jawj.github.com/OverlappingMarkerSpiderfier/bin/oms.min.js
+# cat=basic; type=input; label=Google API Key
+apiKey.google =
